@@ -24,13 +24,13 @@ This template shows how to describe the task definition and List the task defini
 
 ### Outputs  
 
-<b>Describe Task Definition</b>
+<b>Describe Task Definition</b><br>
 ![](assests/describe-task-defintion.png)
 
-<b>List Task Definition</b>
+<b>List Task Definition</b><br>
 ![](assests/list-task-definition.png)
 
-<b>List Task Definition Families</b>
+<b>List Task Definition Families</b><br>
 ![](assests/list-task-definition-families.png)
 
 
